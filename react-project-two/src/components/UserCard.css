@@ -1,0 +1,19 @@
+
+
+/* UserCard specific styling */
+.user-container {
+    background-color: #d3cfcf;
+    padding: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5rem;
+    align-items: center;
+    margin: 1rem;
+}
+
+#user-img {
+    height: 50ch;
+    border-radius: 50ch;
+}
